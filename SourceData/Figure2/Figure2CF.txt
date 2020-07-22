@@ -1,0 +1,8 @@
+Nifti files contain a mask for source-level results. Some differences between the visualisation on the cortical surface (Figure 2C and Figure 2F) and nifti images are to expect for the following reasons: 
+- Nifti files have been created by transforming cortical sheets into 3D volumes. An operation that involves some imprecision.  
+- A 3 voxels smoothing has been applied to nifti images to be comparable with the results obtained from the cortical sheets. 
+
+Nifti files are: 
+	- AllValue_smoothed3voxBox.nii: representing all clusters at the source level encoding the value of the chosen option. 
+	- HEReffect_smoothed3voxBox.nii: representing all clusters at the source level that show a difference in HERs during instruction period. 
+	- MNI_T1.nii: MNI template onto which plot the overlay of the previous 2 files. 

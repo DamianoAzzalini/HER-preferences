@@ -1,0 +1,1 @@
+The file contains the FieldTrip structure used to run the nonparametric statistical test on HER differences between preference-based and perceptual trials during instructions. 

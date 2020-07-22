@@ -1,0 +1,1 @@
+The file contains 2 matrices (HERPref and HERPerc) containing the time course of the HER for the preference-based and perceptual HER during instruction. Each row is a subject and each column is one sample (1 ms). 
